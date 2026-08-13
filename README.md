@@ -25,7 +25,7 @@ Selenium을 이용해 사용자가 직접 로그인한 브라우저 세션에서
 
 ## 스크린샷
 
-![프로그램 실행 이미지](https://i.imgur.com/AOxXGXR.png)
+![프로그램 실행 이미지](https://github.com/user-attachments/assets/db968040-dbb5-4c9d-9be6-7cc379f06a9c)
 
 ---
 
